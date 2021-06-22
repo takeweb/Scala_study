@@ -1,0 +1,1 @@
+println("Hello, workd, from a script!")
